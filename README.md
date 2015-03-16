@@ -1,7 +1,6 @@
 # fox-rabbit-population-simulation
 
 ##My implementation of Assignment 2
---
 CMPT 128: Introduction to Computing Science for Engineering Students 
 FALL 2014 SFU
 
